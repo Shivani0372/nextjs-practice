@@ -5,6 +5,7 @@ export default function Home() {
     <div>
       <h1>This is Home Page</h1>
       <Image src="/images3.jpeg" alt="Product display" width={200} height={200}/>
+      <h2>WELCOME</h2>
     </div>
   );
 }
